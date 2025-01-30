@@ -8,4 +8,4 @@ Projeto com o objetivo de gerar uma planilha de controle financeiro com gráfico
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Excel]([https://www.microsoft.com/en/microsoft-365/powerpoint](https://www.microsoft.com/en/microsoft-365/excel?market=af)
+- [Excel] (https://www.microsoft.com/en/microsoft-365/excel?market=af)
